@@ -22,6 +22,5 @@ To install this application, you must first have [NodeJS](https://nodejs.org/en/
 2. You can send REST PUT/GET/PUSH/DELTE calls to the application served on your local host.
 
 ## Video Walkthroughs
-
-![VIDEO: API CALLS](./_assets_/REST_API_calls.mov)
 ![VIDEO: STARTING APPLICATION](./_assets_/VideoWalkthrough.mov)
+[VIDEO: API CALLS](./_assets_/REST_API_calls.mov)
