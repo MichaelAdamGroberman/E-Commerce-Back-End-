@@ -1,10 +1,10 @@
 # E-Commerce-Using-MYSQL
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)(https://opensource.org/licenses/MIT)
 
 ## Description
 
-This project requires us to build the back end of an e-commerce site by modifying the starter code. To do this, I completed the models files by defining the schemas column data types, connected the front end to a back end mysql server, and defined our api(s) routes and methods.
+This project requires us to build the back end of an e-commerce site by modifying the starter code. To do this, I completed the models files by defining the schemas column data types, connected the front end to a back end express server and mysql server, and I defined our rest api routes and methods.
 
 ## Installation
 
